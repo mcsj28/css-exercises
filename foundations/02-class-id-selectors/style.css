@@ -1,0 +1,16 @@
+.para{
+    background-color:rgb(255, 140, 140) ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#number2{
+    color: rgb(5, 0, 255);
+    font-size: 36px;;
+}
+#number3{ 
+    font-size: 24px;
+}
+#number4{
+    background-color: hsl(151, 66%, 53%);
+    font-weight: bold;
+    font-size: 24px;
+}
